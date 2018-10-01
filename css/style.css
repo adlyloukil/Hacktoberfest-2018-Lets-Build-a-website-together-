@@ -25,10 +25,11 @@ p {
 
 #active,
 #active:hover {
-  color: rgb(168, 168, 168);
+  color: rgb(0, 0, 0);
   text-decoration: none;
   padding-left: 10px;
   padding-right: 10px;
+  text-emphasis: bold;
 }
 
 #link {
