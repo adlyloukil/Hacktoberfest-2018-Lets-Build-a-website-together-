@@ -1,3 +1,4 @@
+
 body {
     background-color: white;
     padding: 80px;
@@ -30,6 +31,11 @@ p {
   text-decoration: none;
   padding-left: 10px;
   padding-right: 10px;
+  font-size: 13px;
+  line-height: 1.5em;
+  font-weight: 400;
+  letter-spacing: 2px;
+  font-style: normal;
 }
 
 #link:hover{
