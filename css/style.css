@@ -49,6 +49,17 @@ p {
   text-decoration: none;
 }
 
+/*
+Add more padding to header
+*/
+.row{
+  padding-bottom: 25px;
+}
+
+#linkNav{
+  margin-bottom: 60px;
+}
+
 /* Responsive Breakpoints */
 
 /* Small devices (landscape phones, 576px and up) */
