@@ -1,6 +1,7 @@
 body {
   background-color: white;
-  padding: 80px;
+ margin: 0 auto;
+  padding: 40px;
   font-family: 'Helvetica', Ariel, sans-serif;
   font-weight: 400;
   letter-spacing: 2px;
