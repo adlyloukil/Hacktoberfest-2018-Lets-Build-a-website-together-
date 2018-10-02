@@ -11,12 +11,14 @@ body {
 }
 
 #linkNav {
-  font-family: 'Helvetica', Ariel, sans-serif;
-  font-size: 14px;
-  padding-top: 28px;
-  padding-bottom: 28px;
-  text-align: center;
-  white-space: nowrap;
+    font-family: 'Helvetica', Ariel, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    white-space: nowrap;
+    width: auto;
+    padding: 28px 0;
+    display: block;
+    margin-bottom: 60px;
 }
 
 p {
@@ -41,4 +43,10 @@ p {
 #link:hover {
   color: rgb(168, 168, 168);
   text-decoration: none;
+}
+/*mobile styles*/
+@media screen and (max-width:978px){
+  iframe {
+  width: 720px;
+}
 }
