@@ -18,6 +18,7 @@ body {
     width: auto;
     padding: 28px 0;
     display: block;
+    margin-bottom: 60px;
 }
 
 p {
@@ -42,4 +43,10 @@ p {
 #link:hover {
   color: rgb(168, 168, 168);
   text-decoration: none;
+}
+/*mobile styles*/
+@media screen and (max-width:978px){
+  iframe {
+  width: 720px;
+}
 }
