@@ -13,8 +13,9 @@ body {
 #linkNav {
   font-family: 'Helvetica', Ariel, sans-serif;
   font-size: 8px;
-  padding-top: 28px;
-  padding-bottom: 28px;
+  letter-spacing: 2px;
+  padding-top: 51px;
+  padding-bottom: 86px;
   text-align: center;
   /* white-space: nowrap; */
 }
@@ -58,7 +59,7 @@ p {
   }
 
   #linkNav {
-    font-size: 12px;
+    font-size: 11px;
   }
 }
 
@@ -69,7 +70,7 @@ p {
   }
 
   #linkNav {
-    font-size: 14px;
+    font-size: 12px;
   }
 }
 
