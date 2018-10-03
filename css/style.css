@@ -52,7 +52,14 @@ p {
 /* Responsive Breakpoints */
 
 /* Small devices (landscape phones, 576px and up) */
-@media (min-width: 576px) { 
+@media (min-width: 576px) {
+  
+  .header-wrap {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 20px auto;
+  }
+  
   body {
     padding: 20px;
   }
