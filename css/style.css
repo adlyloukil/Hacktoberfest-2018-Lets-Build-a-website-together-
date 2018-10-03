@@ -89,3 +89,12 @@ p {
 @media (min-width: 1200px) {
 
 }
+
+.fixed {
+  position: fixed;
+  top: 0;
+  height: 54px;
+  z-index: 1;
+  background: #f3f3f3;
+  padding-top: 1em;
+}
