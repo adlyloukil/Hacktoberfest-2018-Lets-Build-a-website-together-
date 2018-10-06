@@ -159,3 +159,19 @@ p {
 /* Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
 }
+
+p{
+  font-weight: bold;
+}
+
+#title1{
+  font-weight:  bold;
+  font-size: 40px;
+  text-align: center;
+}
+
+#text_box_home{
+  font-weight:  bold;
+  font-size: 30px;
+  text-align: center;
+}
